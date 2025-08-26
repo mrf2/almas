@@ -1,2 +1,2 @@
-# almas
-ALMAS OS
+# almas os
+almas operating system
