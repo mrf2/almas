@@ -1,0 +1,4 @@
+# Telll bochs to use or boot sector code as though it were
+# a floppy disk inserted into a computer at boot time.
+floppya: 1_44=boot.bin, status=inserted
+boot: a
